@@ -12,5 +12,5 @@ But, if they *really* want me to use theirs:
 
  1. It will cost $150, which is non-refundable, and with no guarantee it will ultimately be deemed acceptable.
  2. The NDA will expressly not apply to itself (excluding any personal contact information). After it has been reviewed and personal information has been stripped:
-   a. If it is accepted it will be added to the repository of acceptable NDAs.
-   b. If it is not accepted, it will be added to the repository 
+   - If it is accepted it will be added to the repository of acceptable NDAs.
+   - If it is not accepted, it will be added to the repository of *unacceptable* NDAs
